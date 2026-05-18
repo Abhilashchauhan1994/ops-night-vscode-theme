@@ -1,7 +1,7 @@
 # Ops Night
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhilashchauhan1994/ops-night-vscode-theme/main/icons/ops_night_icon.png" width="140" alt="Ops Night Icon" />
+  <img src="https://raw.githubusercontent.com/abhilashchauhan1994/ops-night-vscode-theme/master/icons/ops_night_icon.png" width="140" alt="Ops Night Icon" />
 </p>
 
 <h3 align="center">
@@ -40,37 +40,37 @@ Ops Night is a carefully crafted dark theme inspired by modern developer favorit
 
 ## OPS_Night
 
-![Theme Preview](https://raw.githubusercontent.com/abhilashchauhan1994/ops-night-vscode-theme/main/screenshot/OPS_Night_theme.PNG)
+![Theme Preview](https://raw.githubusercontent.com/abhilashchauhan1994/ops-night-vscode-theme/master/screenshot/OPS_Night_theme.PNG)
 
 ---
 
 ## Bash Script
 
-![Bash Preview](https://raw.githubusercontent.com/abhilashchauhan1994/ops-night-vscode-theme/main/screenshot/bash.PNG)
+![Bash Preview](https://raw.githubusercontent.com/abhilashchauhan1994/ops-night-vscode-theme/master/screenshot/bash.PNG)
 
 ---
 
 ## Kubernetes YAML
 
-![Kubernetes Preview](https://raw.githubusercontent.com/abhilashchauhan1994/ops-night-vscode-theme/main/screenshot/yaml.PNG)
+![Kubernetes Preview](https://raw.githubusercontent.com/abhilashchauhan1994/ops-night-vscode-theme/master/screenshot/yaml.PNG)
 
 ---
 
 ## Dockerfile
 
-![Docker Preview](https://raw.githubusercontent.com/abhilashchauhan1994/ops-night-vscode-theme/main/screenshot/docker.PNG)
+![Docker Preview](https://raw.githubusercontent.com/abhilashchauhan1994/ops-night-vscode-theme/master/screenshot/docker.PNG)
 
 ---
 
 ## Go
 
-![Go preview](https://raw.githubusercontent.com/abhilashchauhan1994/ops-night-vscode-theme/main/screenshot/go.PNG)
+![Go preview](https://raw.githubusercontent.com/abhilashchauhan1994/ops-night-vscode-theme/master/screenshot/go.PNG)
 
 ---
 
 ## Python
 
-![Python preview](https://raw.githubusercontent.com/abhilashchauhan1994/ops-night-vscode-theme/main/screenshot/python.PNG)
+![Python preview](https://raw.githubusercontent.com/abhilashchauhan1994/ops-night-vscode-theme/master/screenshot/python.PNG)
 
 ---
 
