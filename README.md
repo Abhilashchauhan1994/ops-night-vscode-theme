@@ -1,7 +1,7 @@
 # Ops Night
 
 <p align="center">
-  <img src="./icons/icon.png" width="140" alt="Ops Night Icon" />
+  <img src="./icons/ops_night_icon.png" width="140" alt="Ops Night Icon" />
 </p>
 
 <h3 align="center">
@@ -46,19 +46,19 @@ Ops Night is a carefully crafted dark theme inspired by modern developer favorit
 
 ## Bash Script
 
-![Bash Preview](./screenshots/bash.PNG)
+![Bash Preview](./screenshot/bash.PNG)
 
 ---
 
 ## Kubernetes YAML
 
-![Kubernetes Preview](./screenshots/yaml.PNG)
+![Kubernetes Preview](./screenshot/yaml.PNG)
 
 ---
 
 ## Dockerfile
 
-![Docker Preview](./screenshots/docker.PNG)
+![Docker Preview](./screenshot/docker.PNG)
 
 ---
 
