@@ -1,8 +1,8 @@
 {
-  "name": "ops-night",
-  "displayName": "Ops Night",
+  "name": "ops-nights-vscode-theme",
+  "displayName": "Ops Night DevOps Theme",
   "description": "A production-grade VS Code theme crafted for DevOps engineers, SREs, backend developers, and terminal-first workflows.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "abhilashchauhan1994",
   "license": "MIT",
   "engines": {
