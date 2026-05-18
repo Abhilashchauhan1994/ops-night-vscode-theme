@@ -1,0 +1,7 @@
+{
+  "level": "ERROR",
+  "service": "auth-api",
+  "message": "Invalid token",
+  "status": 401,
+  "timestamp": "2026-05-18T10:15:00Z"
+}

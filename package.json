@@ -1,0 +1,68 @@
+{
+  "name": "ops-night",
+  "displayName": "Ops Night",
+  "description": "A production-grade VS Code theme crafted for DevOps engineers, SREs, backend developers, and terminal-first workflows.",
+  "version": "0.0.1",
+  "publisher": "abhilashchauhan1994",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "devops",
+    "kubernetes",
+    "terraform",
+    "docker",
+    "bash",
+    "terminal",
+    "sre",
+    "cloud",
+    "yaml",
+    "infra",
+    "observability",
+    "backend"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abhilashchauhan1994/ops-night"
+  },
+  "homepage": "https://github.com/abhilashchauhan1994/ops-night",
+  "bugs": {
+    "url": "https://github.com/abhilashchauhan1994/ops-night/issues"
+  },
+  "icon": "icons/ops_night_icon.png",
+  "galleryBanner": {
+    "color": "#0B1220",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ops Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ops Night-color-theme.json"
+      }
+    ]
+  },
+  "files": [
+    "themes",
+    "icons",
+    "README.md",
+    "screenshot",
+    "demo",
+    "LICENSE",
+    "CHANGELOG.md"
+  ],
+  "scripts": {
+    "package": "vsce package",
+    "publish-theme": "vsce publish"
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^2.22.0"
+  }
+}
